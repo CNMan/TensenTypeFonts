@@ -159,4 +159,5 @@ http://www.tensentype.com/show.aspx?id=285	腾祥小小新体繁
 http://www.tensentype.com/show.aspx?id=290	腾祥嘉丽准粗圆GB18030
 http://www.tensentype.com/show.aspx?id=291	腾祥澜黑简
 http://www.tensentype.com/show.aspx?id=292	腾祥嘉丽线黑GB18030
+http://www.tensentype.com/show.aspx?id=293	腾祥嘉丽线黑日文版
 ```
