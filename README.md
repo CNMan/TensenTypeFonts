@@ -160,4 +160,8 @@ http://www.tensentype.com/show.aspx?id=290	腾祥嘉丽准粗圆GB18030
 http://www.tensentype.com/show.aspx?id=291	腾祥澜黑简
 http://www.tensentype.com/show.aspx?id=292	腾祥嘉丽线黑GB18030
 http://www.tensentype.com/show.aspx?id=293	腾祥嘉丽线黑日文版
+http://www.tensentype.com/show.aspx?id=295	腾祥沁圆简-W2
+http://www.tensentype.com/show.aspx?id=296	腾祥沁圆简-W3
+http://www.tensentype.com/show.aspx?id=297	腾祥沁圆简-W4
+http://www.tensentype.com/show.aspx?id=298	腾祥沁圆简-W5
 ```
