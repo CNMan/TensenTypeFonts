@@ -164,4 +164,8 @@ http://www.tensentype.com/show.aspx?id=295	腾祥沁圆简-W2
 http://www.tensentype.com/show.aspx?id=296	腾祥沁圆简-W3
 http://www.tensentype.com/show.aspx?id=297	腾祥沁圆简-W4
 http://www.tensentype.com/show.aspx?id=298	腾祥沁圆简-W5
+http://www.tensentype.com/show.aspx?id=299	腾祥爱情体简
+http://www.tensentype.com/show.aspx?id=301	腾祥爱情体繁
+http://www.tensentype.com/show.aspx?id=302	腾祥爱情体细简
+http://www.tensentype.com/show.aspx?id=303	腾祥爱情体细繁
 ```
