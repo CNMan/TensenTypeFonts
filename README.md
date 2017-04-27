@@ -168,4 +168,6 @@ http://www.tensentype.com/show.aspx?id=299	腾祥爱情体简
 http://www.tensentype.com/show.aspx?id=301	腾祥爱情体繁
 http://www.tensentype.com/show.aspx?id=302	腾祥爱情体细简
 http://www.tensentype.com/show.aspx?id=303	腾祥爱情体细繁
+http://www.tensentype.com/show.aspx?id=304	腾祥婀娜体繁
+http://www.tensentype.com/show.aspx?id=305	腾祥婀娜体简
 ```
