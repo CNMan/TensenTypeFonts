@@ -173,4 +173,10 @@ http://www.tensentype.com/show.aspx?id=305	腾祥婀娜体简
 http://www.tensentype.com/show.aspx?id=306	腾祥铚谦钢笔GB18030
 http://www.tensentype.com/show.aspx?id=307	腾祥智黑GB18030-W4
 http://www.tensentype.com/show.aspx?id=308	腾祥智黑GB18030-W1
+http://www.tensentype.com/show.aspx?id=309	腾祥智黑繁-W1
+http://www.tensentype.com/show.aspx?id=310	腾祥智黑繁-W2
+http://www.tensentype.com/show.aspx?id=311	腾祥智黑繁-W3
+http://www.tensentype.com/show.aspx?id=312	腾祥智黑繁-W4
+http://www.tensentype.com/show.aspx?id=313	腾祥智黑GB18030-W2
+http://www.tensentype.com/show.aspx?id=314	腾祥智黑GB18030-W3
 ```
