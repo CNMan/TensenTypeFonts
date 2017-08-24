@@ -179,4 +179,6 @@ http://www.tensentype.com/show.aspx?id=311	腾祥智黑繁-W3
 http://www.tensentype.com/show.aspx?id=312	腾祥智黑繁-W4
 http://www.tensentype.com/show.aspx?id=313	腾祥智黑GB18030-W2
 http://www.tensentype.com/show.aspx?id=314	腾祥智黑GB18030-W3
+http://www.tensentype.com/show.aspx?id=315	腾祥匆匆体简
+http://www.tensentype.com/show.aspx?id=316	腾祥匆匆体繁
 ```
