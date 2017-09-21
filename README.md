@@ -183,4 +183,6 @@ http://www.tensentype.com/show.aspx?id=315	腾祥匆匆体简
 http://www.tensentype.com/show.aspx?id=316	腾祥匆匆体繁
 http://www.tensentype.com/show.aspx?id=317	腾祥童宋体简
 http://www.tensentype.com/show.aspx?id=318	腾祥童宋体繁
+http://www.tensentype.com/show.aspx?id=319	腾祥童行体简
+http://www.tensentype.com/show.aspx?id=320	腾祥童行体繁
 ```
