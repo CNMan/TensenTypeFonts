@@ -53,10 +53,12 @@
 |TTCaoShu.ttf|Tensentype BoDanCaoShu|Tensentype BoDanCaoShu|Tensentype BoDanCaoShu|Regular|1.00|
 |TTChaoCuYuanF.ttf|Tensentype JiaLiChaoCuYuanF ExtraBold|Tensentype JiaLiChaoCuYuanF|Tensentype JiaLiChaoCuYuanF|ExtraBold| 1.00|
 |TTChaoCuYuanJ.ttf|Tensentype JiaLiChaoCuYuanJ ExtraBold|Tensentype JiaLiChaoCuYuanJ|Tensentype JiaLiChaoCuYuanJ|ExtraBold| 1.00|
-|TTChaoHeiJ.ttf|Tensentype ChaoHeiJ Bold|Tensentype ChaoHeiJ|Tensentype ChaoHeiJ|Bold| 1.01|
+|TTChaoHeiF.ttf|Tensentype ChaoHeiF Bold|Tensentype ChaoHeiF|Tensentype ChaoHeiF|Bold| 1.00|
+|TTChaoHeiJ.ttf|Tensentype ChaoHeiJ Bold|Tensentype ChaoHeiJ|Tensentype ChaoHeiJ|Bold| 1.20|
 |TTChaoXiYuanF.ttf|Tensentype JiaLiChaoXiYuanF Extra-Light|Tensentype JiaLiChaoXiYuanF|Tensentype JiaLiChaoXiYuanF|Extra-Light| 1.17|
 |TTChaoXiYuanJ.ttf|Tensentype JiaLiChaoXiYuanJ Extra-Light|Tensentype JiaLiChaoXiYuanJ|Tensentype JiaLiChaoXiYuanJ|Extra-Light| 1.17|
-|TTChaoYuanJ.ttf|Tensentype ChaoYuanJ Bold|Tensentype ChaoYuanJ|Tensentype ChaoYuanJ|Bold| 1.01|
+|TTChaoYuanF.ttf|Tensentype ChaoYuanF Bold|Tensentype ChaoYuanF|Tensentype ChaoYuanF|Bold| 1.00|
+|TTChaoYuanJ.ttf|Tensentype ChaoYuanJ Bold|Tensentype ChaoYuanJ|Tensentype ChaoYuanJ|Bold| 1.20|
 |TTCongCongF.ttf|Tensentype CongCongF Regular|Tensentype CongCongF|Tensentype CongCongF|Regular|1.18|
 |TTCongCongJ.ttf|Tensentype CongCongJ Regular|Tensentype CongCongJ|Tensentype CongCongJ|Regular|1.18|
 |TTCuHeiF.ttf|Tensentype JiaLiCuHeiF Bold|Tensentype JiaLiCuHeiF|Tensentype JiaLiCuHeiF|Bold| 1.00|
@@ -80,10 +82,13 @@
 |TTFanKaiF.ttf|Tensentype FanXiaoGeKaiShuF Regular|Tensentype FanXiaoGeKaiShuF|Tensentype FanXiaoGeKaiShuF|Regular|1.00|
 |TTFanKaiJ.ttf|Tensentype FanXiaoGeKaiShuJ Regular|Tensentype FanXiaoGeKaiShuJ|Tensentype FanXiaoGeKaiShuJ|Regular|1.00|
 |TTGangBiF.ttf|Tensentype ZhiQianGangBiF Regular|Tensentype ZhiQianGangBiF|Tensentype ZhiQianGangBiF|Regular| 1.19|
-|TTGangBiGB3.ttf|Tensentype ZhiQianGangBiGB18030 Regular|Tensentype ZhiQianGangBiGB18030|Tensentype ZhiQianGangBiGB18030|Regular| 1.18|
-|TTGangBiJ.ttf|Tensentype ZhiQianGangBiJ Regular|Tensentype ZhiQianGangBiJ|Tensentype ZhiQianGangBiJ|Regular| 1.06|
+|TTGangBiGB3.ttf|Tensentype ZhiQianGangBiGB18030 Regular|Tensentype ZhiQianGangBiGB18030|Tensentype ZhiQianGangBiGB18030|Regular| 1.19|
+|TTGangBiJ.ttf|Tensentype ZhiQianGangBiJ Regular|Tensentype ZhiQianGangBiJ|Tensentype ZhiQianGangBiJ|Regular| 1.19|
 |TTHiraginoSansGB-W3.ttf|TTHiragino Sans GB W3|TTHiraginoSansGB-W3|TTHiragino Sans GB W3|Regular|3.21|
 |TTHiraginoSansGB-W6.ttf|TTHiragino Sans GB W6|TTHiraginoSansGB-W6|TTHiragino Sans GB W6|Regular|3.21|
+|TTHuaYuJ.ttf|Tensentype HuaYuJ Regular|Tensentype HuaYuJ|Tensentype HuaYuJ|Regular| 1.00|
+|TTHuiJinF.ttf|Tensentype HuiJinF|Tensentype HuiJinF|Tensentype HuiJinJ|Regular|1.0000|
+|TTHuiJinJ.ttf|Tensentype HuiJinJ|Tensentype HuiJinJ|Tensentype HuiJinJ|Regular|1.10|
 |TTJianDuF.ttf|Tensentype FanXiaoGeJianDuF Regular|Tensentype FanXiaoGeJianDuF|Tensentype FanXiaoGeJianDuF|Regular|1.00|
 |TTJianDuJ.ttf|Tensentype FanXiaoGeJianDuJ Regular|Tensentype FanXiaoGeJianDuJ|Tensentype FanXiaoGeJianDuJ|Regular|1.00|
 |TTJinZhuanHeiF.ttf|Tensentype JinZhuanHeiF Medium|Tensentype JinZhuanHeiF|Tensentype JinZhuanHeiF|Medium|1.02|
@@ -92,12 +97,18 @@
 |TTKaTongJ.ttf|Tensentype KongMiaoKaTongJ Regular|Tensentype KongMiaoKaTongJ|Tensentype KongMiaoKaTongJ|Regular| 1.00|
 |TTLanHeiJ.ttf|Tensentype LanHeJ Bold|Tensentype LanHeJ|Tensentype LanHeJ|Bold| 1.00|
 |TTLaTiaoJ.ttf|TTLaTiaoTiJ Regular|TTLaTiaoTiJ|TTLaTiaoTiJ|Regular|1.00|
+|TTLeLeF.ttf|Tensentype LeLeShouJiF Regular|Tensentype LeLeShouJiF|Tensentype LeLeShouJiF|Regular| 1.00|
+|TTLeLeJ.ttf|Tensentype LeLeShouJiJ Regular|Tensentype LeLeShouJiJ|Tensentype LeLeShouJiJ|Regular| 1.00|
 |TTLingHeiJ.ttf|Tensentype LingHeiJ Bold|Tensentype LingHeiJ|Tensentype LingHeiJ|Bold| 1.00|
 |TTMaiHeiJ.ttf|Tensentype MaiHeiJ Medium|Tensentype MaiHeiJ|Tensentype MaiHeiJ|Medium|1.00|
-|TTMeiHeiJ.ttf|Tensentype MeiHeiJ Bold|Tensentype MeiHeiJ|Tensentype MeiHeiJ|Bold| 1.01|
+|TTMeiHeiF.ttf|Tensentype MeiHeiF Bold|Tensentype MeiHeiF|Tensentype MeiHeiF|Bold| 1.00|
+|TTMeiHeiJ.ttf|Tensentype MeiHeiJ Bold|Tensentype MeiHeiJ|Tensentype MeiHeiJ|Bold| 1.20|
 |TTMianBaoF.ttf|Tensentype MianBaoF Medium|Tensentype MianBaoF|Tensentype MianBaoF|Medium| 1.00|
 |TTMianBaoJ.ttf|Tensentype MianBaoJ Medium|Tensentype MianBaoJ|Tensentype MianBaoJ|Medium| 1.00|
 |TTMiaoSiJ-W1.ttf|Tensentype TTMiaoSiJ-W1 Light|Tensentype TTMiaoSiJ-W1|Tensentype TTMiaoSiJ-W1|Light|1.00|
+|TTMiaoSiJ-W2.ttf|Tensentype MiaoSiJ-W2 Regular|Tensentype MiaoSiJ-W2|Tensentype MiaoSiJ-W2|Regular| 1.00|
+|TTMiaoSiJ-W3.ttf|Tensentype MiaoSiJ-W3 Medium|Tensentype MiaoSiJ-W3|Tensentype MiaoSiJ-W3|Medium| 1.00|
+|TTMiaoSiJ-W4.ttf|Tensentype MiaoSiJ-W4 Bold|Tensentype MiaoSiJ-W4|Tensentype MiaoSiJ-W4|Bold| 1.00|
 |TTMingKeF.ttf|Tensentype MingKeF Regular|Tensentype MingKeF|Tensentype MingKeF|Regular|1.18|
 |TTMingKeJ.ttf|Tensentype MingKeJ Regular|Tensentype MingKeJ|Tensentype MingKeJ|Regular|1.18|
 |TTMingSongGB3-W1.ttf|TTMingSongGB18030-W1 Light|TTMingSongGB18030-W1 Light|TTMingSongJ-W1|Light|1.00|
@@ -112,14 +123,20 @@
 |TTMingSongJ-W7.ttf|TTMingSongJ-W7 SemiHeavy|TTMingSongJ-W7 SemiHeavy|TTMingSongJ-W7|SemiHeavy|1.00|
 |TTMingSongJ-W8.ttf|TTMingSongJ-W8 Heavy|TTMingSongJ-W8 Heavy|TTMingSongJ-W8|Heavy|1.00|
 |TTMingSongJ-W9.ttf|TTMingSongJ-W9 SemiBlack|TTMingSongJ-W9 SemiBlack|TTMingSongJ-W9|SemiBlack|1.00|
+|TTNiNiF.ttf|Tensentype NiNiShouJiF Regular|Tensentype NiNiShouJiF|Tensentype NiNiShouJiF|Regular| 1.00|
+|TTNiNiJ.ttf|Tensentype NiNiShouJiJ Regular|Tensentype NiNiShouJiJ|Tensentype NiNiShouJiJ|Regular| 1.00|
 |TTPaoPaoF.ttf|Tensentype PaoPaoF Light|Tensentype PaoPaoF|Tensentype PaoPaoF|Light|1.00|
 |TTPaoPaoJ.ttf|Tensentype PaoPaoJ Light|Tensentype PaoPaoJ|Tensentype PaoPaoJ|Light|1.00|
+|TTQianHeiF.ttf|Tensentype QianHeiF Bold|Tensentype QianHeiF|Tensentype QianHeiF|Bold|1.00|
+|TTQianHeiJ.ttf|Tensentype QianHeiJ Bold|Tensentype QianHeiJ|Tensentype QianHeiJ|Bold|1.00|
 |TTQianNvF.ttf|Tensentype QianNvF Regular|Tensentype QianNvF|Tensentype QianNvF|Regular|1.00|
 |TTQianNvJ.ttf|Tensentype QianNvJ Regular|Tensentype QianNvJ|Tensentype QianNvJ|Regular|1.00|
 |TTQianXinF.ttf|Tensentype QianXinF Regular|Tensentype QianXinF|Tensentype QianXinF|Regular|1.00|
-|TTQianXinJ.ttf|Tensentype QianXinJ Regular|Tensentype QianXinJ|Tensentype QianXinJ|Regular|1.00|
+|TTQianXinJ.ttf|Tensentype QianXinJ Regular|Tensentype QianXinJ|Tensentype QianXinJ|Regular|1.20|
 |TTQianYingF.ttf|Tensentype QianYingF Regular|Tensentype QianYingF|Tensentype QianYingF|Regular|1.00|
 |TTQianYingJ.ttf|Tensentype QianYingJ Regular|Tensentype QianYingJ|Tensentype QianYingJ|Regular|1.00|
+|TTQiaoQiaoF.ttf|Tensentype QiaoQiaoShouJiF Regular|Tensentype QiaoQiaoShouJiF|Tensentype QiaoQiaoShouJiF|Regular| 1.00|
+|TTQiaoQiaoJ.ttf|Tensentype QiaoQiaoShouJiJ Regular|Tensentype QiaoQiaoShouJiJ|Tensentype QiaoQiaoShouJiJ|Regular| 1.00|
 |TTQinYuanJ-W1.ttf|Tensentype QinYuanJ-W1 Light|Tensentype QinYuanJ-W1|Tensentype QinYuanJ-W1|Light| 1.02|
 |TTQinYuanJ-W2.ttf|Tensentype QinYuanJ-W2 Regular|Tensentype QinYuanJ-W2|Tensentype QinYuanJ-W2|Regular| 1.00|
 |TTQinYuanJ-W3.ttf|Tensentype QinYuanJ-W3 Medium|Tensentype QinYuanJ-W3|Tensentype QinYuanJ-W3|Medium| 1.00|
@@ -152,9 +169,10 @@
 |TTTongSongJ.ttf|Tensentype TongSongJ Regular|Tensentype TongSongJ|Tensentype TongSongJ|Regular|1.00|
 |TTTongXingF.ttf|Tensentype TongXingF Regular|Tensentype TongXingF|Tensentype TongXingF|Regular|1.00|
 |TTTongXingJ.ttf|Tensentype TongXingJ Regular|Tensentype TongXingJ|Tensentype TongXingJ|Regular|1.00|
-|TTXianBoF.ttf|Tensentype JiaLi XianBoF ExtraLight|Tensentype JiaLi XianBoF|Tensentype JiaLi XianBoF|ExtraLight| 1.01|
+|TTXianBoF.ttf|Tencentype JiaLiXianBoHeiF ExtraLight|Tencentype JiaLiXianBoHeiF|Tencentype JiaLiXianBoHeiF|ExtraLight| 1.01|
 |TTXianBoJ.ttf|Tensentype JiaLiXianBoHeij Extra Light|Tensentype JiaLiXianBoHeiJ|Tensentype JiaLiXianBoHeiJ|Extra Light| 1.00|
-|TTXianChaoHeiJ.ttf|Tensentype XianChaoHeiJ Light|Tensentype XianChaoHeiJ|Tensentype XianChaoHeiJ|Light| 1.00|
+|TTXianChaoHeiF.ttf|Tensentype XianChaoHeiF Light|Tensentype XianChaoHeiF|Tensentype XianChaoHeiF|Light| 1.00|
+|TTXianChaoHeiJ.ttf|Tensentype XianChaoHeiJ Light|Tensentype XianChaoHeiJ|Tensentype XianChaoHeiJ|Light| 1.20|
 |TTXiangSiF.ttf|Tensentype XiangSiF Light|Tensentype XiangSiF|Tensentype XiangSiF|Light| 1.00|
 |TTXiangSiJ.ttf|Tensentype XiangSiJ Light|Tensentype XiangSiJ|Tensentype XiangSiJ|Light| 1.00|
 |TTXianHeiF.ttf|Tensentype JiaLi XianHeiF ExtraLight|Tensentype JiaLi XianHeiF|Tensentype JiaLi XianHeiF|ExtraLight| 1.01|
@@ -168,8 +186,10 @@
 |TTXiaoXiaoXinJ.ttf|Tensentype XiaoXiaoXinJ Regular|Tensentype XiaoXiaoXinJ|Tensentype XiaoXiaoXinJ|Regular|1.00|
 |TTXiaoXinF.ttf|Tensentype XiaoXinTiF Regular|Tensentype XiaoXinTiF|Tensentype XiaoXinTiF|Regular|1.00|
 |TTXiaoXinJ.ttf|Tensentype XiaoXinTiJ Regular|Tensentype XiaoXinTiJ|Tensentype XiaoXinTiJ|Regular|1.00|
-|TTXiChaoHeiJ.ttf|Tensentype XiChaoHeiJ Bold|Tensentype XiChaoHeiJ|Tensentype XiChaoHeiJ|Bold| 1.01|
-|TTXiChaoYuanJ.ttf|Tensentype XiChaoYuanJ Bold|Tensentype XiChaoYuanJ|Tensentype XiChaoYuanJ|Bold| 1.01|
+|TTXiChaoHeiF.ttf|Tensentype XiChaoHeiF Bold|Tensentype XiChaoHeiF|Tensentype XiChaoHeiF|Bold| 1.00|
+|TTXiChaoHeiJ.ttf|Tensentype XiChaoHeiJ Bold|Tensentype XiChaoHeiJ|Tensentype XiChaoHeiJ|Bold| 1.20|
+|TTXiChaoYuanF.ttf|Tensentype XiChaoYuanF Bold|Tensentype XiChaoYuanF|Tensentype XiChaoYuanF|Bold| 1.00|
+|TTXiChaoYuanJ.ttf|Tensentype XiChaoYuanJ Bold|Tensentype XiChaoYuanJ|Tensentype XiChaoYuanJ|Bold| 1.20|
 |TTXiHeiF.ttf|Tensentype JiaLiXiHeiF Light|Tensentype JiaLiXiHeiF|Tensentype JiaLiXiHeiF|Light| 1.00|
 |TTXiHeiGB3.ttf|Tensentype JiaLiXiHeiGB18030 Light|Tensentype JiaLiXiHeiGB18030|Tensentype JiaLiXiHeiGB18030|Light|1.00|
 |TTXiHeiJ.ttf|Tensentype JiaLiXiHeiJ Light|Tensentype JiaLiXiHeiJ|Tensentype JiaLiXiHeiJ|Light| 1.00|
@@ -185,6 +205,26 @@
 |TTXiYuanJ.ttf|Tensentype JiaLiXiYuanJ Light|Tensentype JiaLiXiYuanJ|Tensentype JiaLiXiYuanJ|Light| 1.01|
 |TTYingLiF.ttf|Tensentype TieShanYingLiF Regular|Tensentype TieShanYingLiF|Tensentype TieShanYingLiF|Regular| 1.00|
 |TTYingLiJ.ttf|Tensentype TieShanYingLiJ Regular|Tensentype TieShanYingLiJ|Tensentype TieShanYingLiJ|Regular| 1.00|
+|TTYingSongF-W10.ttf|TTYingSongF-W10|TTYingSongF-W10|TTYingSongF-W10|Black|1.00|
+|TTYingSongF-W1.ttf|TTYingSongF-W1|TTYingSongF-W1 Light|TTYingSongF-W1|Light|1.00|
+|TTYingSongF-W2.ttf|TTYingSongF-W2|TTYingSongF-W2|TTYingSongF-W2|Regular|1.00|
+|TTYingSongF-W3.ttf|TTYingSongF-W3 SemiMedium|TTYingSongF-W3|TTYingSongF-W3|Regular|1.00|
+|TTYingSongF-W4.ttf|TTYingSongF-W4|TTYingSongF-W4|TTYingSongF-W4|Medium|1.00|
+|TTYingSongF-W5.ttf|TTYingSongF-W5|TTYingSongF-W5|TTYingSongF-W5|SemiBold|1.00|
+|TTYingSongF-W6.ttf|TTYingSongF-W6|TTYingSongF-W6|TTYingSongF-W6|Bold|1.00|
+|TTYingSongF-W7.ttf|TTYingSongF-W7|TTYingSongF-W7|TTYingSongF-W7|SemiHeavy|1.00|
+|TTYingSongF-W8.ttf|TTYingSongF-W8|TTYingSongF-W8|TTYingSongF-W8|Heavy|1.00|
+|TTYingSongF-W9.ttf|TTYingSongF-W9|TTYingSongF-W9|TTYingSongF-W9|SemiBlack|1.00|
+|TTYingSongJ-W10.ttf|TTYingSongJ-W10|TTYingSongJ-W10|TTYingSongJ-W10|Black|1.00|
+|TTYingSongJ-W1.ttf|TTYingSongJ-W1|TTYingSongJ-W1 Regular|TTYingSongJ-W1|Regular|1.00|
+|TTYingSongJ-W2.ttf|TTYingSongJ-W2|TTYingSongJ-W2|TTYingSongJ-W2|Regular|1.00|
+|TTYingSongJ-W3.ttf|TTYingSongJ-W3|TTYingSongJ-W3|TTYingSongJ-W3|SemiMedium|1.00|
+|TTYingSongJ-W4.ttf|TTYingSongJ-W4|TTYingSongJ-W4|TTYingSongJ-W4|Medium|1.00|
+|TTYingSongJ-W5.ttf|TTYingSongJ-W5|TTYingSongJ-W5|TTYingSongJ-W5|SemiBold|1.00|
+|TTYingSongJ-W6.ttf|TTYingSongJ-W6|TTYingSongJ-W6|TTYingSongJ-W6|Bold|1.00|
+|TTYingSongJ-W7.ttf|TTYingSongJ-W7|TTYingSongJ-W7|TTYingSongJ-W7|SemiHeavy|1.00|
+|TTYingSongJ-W8.ttf|TTYingSongJ-W8|TTYingSongJ-W8|TTYingSongJ-W8|Heavy|1.00|
+|TTYingSongJ-W9.ttf|TTYingSongJ-W9|TTYingSongJ-W9|TTYingSongJ-W9|SemiBlack|1.00|
 |TTYouErF.ttf|Tensentype ZhiQianYouErF Regular|Tensentype ZhiQianYouErF|Tensentype ZhiQianYouErF|Regular|1.01|
 |TTYouErJ.ttf|Tensentype ZhiQianYouErJ Regular|Tensentype ZhiQianYouErJ|Tensentype ZhiQianYouErJ|Regular| 1.01|
 |TTZhiHeiF-W1.ttf|Tensentype ZhiHeiF-W1 Extra Light|Tensentype ZhiHeiF-W1|Tensentype ZhiHeiF-W1|Extra Light| 1.00|
@@ -193,11 +233,11 @@
 |TTZhiHeiF-W4.ttf|Tensentype ZhiHeiF-W4 Medium|Tensentype ZhiHeiF-W4|Tensentype ZhiHeiF-W4|Medium| 1.00|
 |TTZhiHeiGB3-W1.ttf|Tensentype ZhiHeiGB18030-W1 Extra Light|Tensentype ZhiHeiGB18030-W1|Tensentype ZhiHeiGB18030-W1|Extra Light| 1.00|
 |TTZhiHeiGB3-W2.ttf|Tensentype ZhiHeiGB18030-W2 Light|Tensentype ZhiHeiGB18030-W2|Tensentype ZhiHeiGB18030-W2|Light| 1.00|
-|TTZhiHeiGB3-W3.ttf|Tensentype ZhiHeiGB18030-W3|Tensentype ZhiHeiGB18030-W3|Tensentype ZhiHeiGB18030-W3|Regular| 1.00|
+|TTZhiHeiGB3-W3.ttf|Tensentype ZhiHeiGB18030-W3 Regular|Tensentype ZhiHeiGB18030-W3|Tensentype ZhiHeiGB18030-W3|Regular| 1.19|
 |TTZhiHeiGB3-W4.ttf|Tensentype ZhiHeiGB18030-W4 Medium|Tensentype ZhiHeiGB18030-W4|Tensentype ZhiHeiGB18030-W4|Medium| 1.00|
 |TTZhiHeiJ-W1.ttf|Tensentype ZhiHeiJ-W1 Extra Light|Tensentype ZhiHeiJ-W1|Tensentype ZhiHeiJ-W1|Extra Light| 1.00|
 |TTZhiHeiJ-W2.ttf|Tensentype ZhiHeiJ-W2 Light|Tensentype ZhiHeiJ-W2|Tensentype ZhiHeiJ-W2|Light| 1.00|
-|TTZhiHeiJ-W3.ttf|Tensentype ZhiHeiJ-W3 Regular|Tensentype ZhiHeiJ-W3|Tensentype ZhiHeiJ-W3|Regular| 1.00|
+|TTZhiHeiJ-W3.ttf|Tensentype ZhiHeiJ-W3 Regular|Tensentype ZhiHeiJ-W3|Tensentype ZhiHeiJ-W3|Regular| 1.19|
 |TTZhiHeiJ-W4.ttf|Tensentype ZhiHeiJ-W4 Medium|Tensentype ZhiHeiJ-W4|Tensentype ZhiHeiJ-W4|Medium| 1.00|
 |TTZhiHeiJ-W5.ttf|Tensentype ZhiHeiJ-W5 Bold|Tensentype ZhiHeiJ-W5|Tensentype ZhiHeiJ-W5|Bold| 1.00|
 |TTZhiHeiJ-W6.ttf|Tensentype ZhiHeiJ-W6 ExtraBold|Tensentype ZhiHeiJ-W6|Tensentype ZhiHeiJ-W6|Extra Bold| 1.00|
